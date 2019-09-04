@@ -13,6 +13,12 @@
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.css" integrity="sha256-piqEf7Ap7CMps8krDQsSOTZgF+MU/0MPyPW2enj5I40=" crossorigin="anonymous" />
+<style>
+.white-text{
+  color: #fff;
+}
+</style>
 
   </head>
   <body>
@@ -38,23 +44,23 @@
           <div class="col-md-6 col-lg-7 text-center text-md-right">
 
             <!-- Facebook -->
-            <a class="fb-ic">
+            <a class="fb-ic" href="https://www.facebook.com/">
               <i class="fab fa-facebook-f white-text mr-4"> </i>
             </a>
             <!-- Twitter -->
-            <a class="tw-ic">
+            <a class="tw-ic" href="https://twitter.com">
               <i class="fab fa-twitter white-text mr-4"> </i>
             </a>
             <!-- Google +-->
-            <a class="gplus-ic">
+            <a class="gplus-ic" href="https://www.google.com.ar/">
               <i class="fab fa-google-plus-g white-text mr-4"> </i>
             </a>
             <!--Linkedin -->
-            <a class="li-ic">
+            <a class="li-ic" href="https://ar.linkedin.com/">
               <i class="fab fa-linkedin-in white-text mr-4"> </i>
             </a>
             <!--Instagram-->
-            <a class="ins-ic">
+            <a class="ins-ic" href="https://www.instagram.com">
               <i class="fab fa-instagram white-text"> </i>
             </a>
 
